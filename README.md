@@ -2,8 +2,6 @@
 
 **Author:** Anne Anita Beaula P
 
-![UI/UX Preview](images/ui-ux-dashboard.jpg)
-
 ---
 
 ## 🔎 Project Overview
