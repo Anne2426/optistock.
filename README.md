@@ -136,4 +136,3 @@ To simulate real-world enterprise security:
 
 ---
 
-> **Note:** Replace `images/ui-ux-dashboard.jpg` with your actual dashboard UI/UX screenshot for best results on GitHub.
